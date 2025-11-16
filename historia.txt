@@ -1,8 +1,5 @@
 Esta es la introduccion de mi historia. 
 La segunda linea de la historia 
 continuacion en la 3ra linea de la historia 
-<<<<<<< HEAD
-La historia ha tenido un buen final 
-=======
 Esta es la nueva línea de desarollo
->>>>>>> e6f598c3c21c455079b55f002afcdc840700d312
+La historia ha tenido un buen final pero hubo algo malo
